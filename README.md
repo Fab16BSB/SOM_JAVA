@@ -1,6 +1,6 @@
 ![License: MIT](https://img.shields.io/badge/Licence-MIT-green)
 ![machine: learning](https://img.shields.io/badge/machine-learning-blue)
-![java: 17](https://img.shields.io/badge/java-17-orange)
+![java: 17](https://img.shields.io/badge/java-17-brightgreen)
 ![Contributors](https://img.shields.io/badge/contributor-1-orange)
 ![Stars](https://img.shields.io/github/stars/Fab16BSB/SOM_JAVA?color=orange)
 ![Fork](https://img.shields.io/github/forks/Fab16BSB/SOM_JAVA?color=orange)
