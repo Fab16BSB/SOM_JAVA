@@ -79,7 +79,7 @@ Si no tienes Java instalado, puedes seguir las instrucciones en uno de mis video
 - **Linux**: [Install Java on Linux](https://www.youtube.com/watch?v=-9G2YARJ0jM)
 - **Mac**: [Install Java on Mac](https://www.youtube.com/watch?v=hts1lGSKZfc&t=1s)
 - **Windows**: [Install Java on Windows](https://www.youtube.com/watch?v=vCQHCYM_OVY)
-- 
+  
 ---
 
 ### 📝 Compilación y ejecución
