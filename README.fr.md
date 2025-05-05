@@ -1,4 +1,5 @@
 ![License: MIT](https://img.shields.io/badge/Licence-MIT-green)
+![University: Paris 8](https://img.shields.io/badge/University-Paris%208-red)
 ![machine: learning](https://img.shields.io/badge/machine-learning-blue)
 ![java: 17](https://img.shields.io/badge/java-17-brightgreen)
 ![Contributors](https://img.shields.io/badge/contributor-1-orange)
