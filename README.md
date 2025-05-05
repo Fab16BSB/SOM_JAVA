@@ -73,6 +73,16 @@ The result is a topologically organized map, where similar classes are found in 
 
 ---
 
+### 💻 Install Java (If You Don't Have Java Installed)
+
+If you don't have Java installed, you can follow the instructions in one of my YouTube videos for installing Java on different platforms:
+
+- **Linux**: [Install Java on Linux](https://www.youtube.com/watch?v=-9G2YARJ0jM)
+- **Mac**: [Install Java on Mac](https://www.youtube.com/watch?v=hts1lGSKZfc&t=1s)
+- **Windows**: [Install Java on Windows](https://www.youtube.com/watch?v=vCQHCYM_OVY)
+
+---
+
 ### 📝 Compilation and Execution
 
 1. **Clone the repository**
@@ -92,6 +102,8 @@ The result is a topologically organized map, where similar classes are found in 
    ```bash
    java Lancement
    ````
+   
+---
 
 ### 🙌 Acknowledgements
 I would like to thank my instructor for offering me this project and for his valuable advice.
