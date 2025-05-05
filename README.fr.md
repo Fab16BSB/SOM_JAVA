@@ -71,7 +71,15 @@ Le résultat est une carte organisée topologiquement, où les classes similaire
 - **Langage :** Java (implémentation from scratch)  
 ---
 
-fourni moi ca en markdown correctement formaté :
+### 💻 Installer Java (Si vous n'avez pas Java installé)
+
+Si vous n'avez pas Java installé, vous pouvez suivre les instructions dans l'une de mes vidéos YouTube pour installer Java sur différentes plateformes :
+
+- **Linux**: [Install Java on Linux](https://www.youtube.com/watch?v=-9G2YARJ0jM)
+- **Mac**: [Install Java on Mac](https://www.youtube.com/watch?v=hts1lGSKZfc&t=1s)
+- **Windows**: [Install Java on Windows](https://www.youtube.com/watch?v=vCQHCYM_OVY)
+
+---
 
 ### 📝 Compilation et exécution
 
@@ -93,6 +101,7 @@ fourni moi ca en markdown correctement formaté :
    ```bash
    java Lancement
    ````
+---
 
 ### 🙌 Remerciements
 Je souhaite remercier mon enseignant pour m'avoir proposé ce projet ainsi que pour ses précieux conseils.
