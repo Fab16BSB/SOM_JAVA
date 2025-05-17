@@ -87,7 +87,7 @@ Si vous n'avez pas Java installé, vous pouvez suivre les instructions dans l'un
 
    ```bash
    git clone https://github.com/Fab16BSB/SOM_JAVA.git
-   cd SOM_JAVA
+   cd SOM_JAVA/code
    ```
 
 2. **Compilation**
@@ -99,8 +99,14 @@ Si vous n'avez pas Java installé, vous pouvez suivre les instructions dans l'un
 3. **Exécution**
 
    ```bash
-   java Lancement
+   java code.Lancement
    ````
+---
+
+### 📈 Résultats
+<img src="images/execution_1.png">
+<img src="images/execution_2.png">
+
 ---
 
 ### 🙌 Remerciements
