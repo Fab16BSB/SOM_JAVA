@@ -134,8 +134,8 @@ public class Traitement {
    * The computed mean vector is also printed to the console.
    */
   public void calculeVecteurMoyen() {
-    this.moyenne = new double[this.normeDatas.getFirst().getDimention().length];
-    this.vecteurMoyen = new ArrayList<>(this.normeDatas.getFirst().getDimention().length);
+    this.moyenne = new double[this.normeDatas.get(0).getDimention().length];
+    this.vecteurMoyen = new ArrayList<>(this.normeDatas.get(0).getDimention().length);
     for (final Weight e : this.normeDatas) {
       for (int i = 0; i < e.getDimention().length; ++i) {
         final double[] dimention = e.getDimention();
@@ -236,7 +236,7 @@ public class Traitement {
    * @param listeResult the list where the normalized `code.Weight` objects will be stored
    */
   public void normalisation(final ArrayList<Weight> maListe, final ArrayList<Weight> listeResult) {
-    final double[] normeVecteur = new double[maListe.getFirst().getDimention().length];
+    final double[] normeVecteur = new double[maListe.get(0).getDimention().length];
     for (final Weight f : maListe) {
       double norme = 0.0;
       for (int i = 0; i < f.getDimention().length; ++i) {
@@ -344,10 +344,10 @@ public class Traitement {
         }
       }
     }
-    int MaxX = resultat.getFirst().getX();
-    int MaxY = resultat.getFirst().getY();
-    int MinX = resultat.getFirst().getX();
-    int MinY = resultat.getFirst().getY();
+    int MaxX = resultat.get(0).getX();
+    int MaxY = resultat.get(0).getY();
+    int MinX = resultat.get(0).getX();
+    int MinY = resultat.get(0).getY();
     for (int i = 1; i < resultat.size() - 1; ++i) {
       if (resultat.get(i).getX() < MinX) {
         MinX = resultat.get(i).getX();
