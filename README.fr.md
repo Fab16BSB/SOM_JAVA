@@ -82,6 +82,9 @@ Si vous n'avez pas Java installé, vous pouvez suivre les instructions dans l'un
 ---
 
 ### 📝 Compilation et exécution
+Vous pouvez compiler et exécuter le projet soit **localement**, soit en utilisant **Docker**.
+
+#### ⚡ Option 1 : Compilation et Exécution Locale
 
 1. **Cloner le dépôt**
 
@@ -99,8 +102,30 @@ Si vous n'avez pas Java installé, vous pouvez suivre les instructions dans l'un
 3. **Exécution**
 
    ```bash
+   cd ..
    java code.Lancement
-   ````
+   ```
+
+#### 🐳 Option 2 : Utilisation de Docker
+
+1. **Cloner le dépôt**
+   
+```bash
+git clone https://github.com/Fab16BSB/SOM_C.git
+cd SOM_C
+```
+
+2. **Construire l'image Docker**
+   
+```bash
+docker build -t som_c .
+```
+
+3. **Exécuter le conteneur Docker**
+```bash
+docker run --rm -it som_c
+```
+
 ---
 
 ### 📈 Résultats
@@ -111,3 +136,4 @@ Si vous n'avez pas Java installé, vous pouvez suivre les instructions dans l'un
 
 ### 🙌 Remerciements
 Je souhaite remercier mon enseignant pour m'avoir proposé ce projet ainsi que pour ses précieux conseils.
+
