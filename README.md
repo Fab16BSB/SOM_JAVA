@@ -84,6 +84,9 @@ If you don't have Java installed, you can follow the instructions in one of my Y
 ---
 
 ### 📝 Compilation and Execution
+You can compile and run the project either **locally** or using **Docker**.
+
+#### ⚡ Option 1: Local Compilation and Execution
 
 1. **Clone the repository**
 
@@ -100,8 +103,30 @@ If you don't have Java installed, you can follow the instructions in one of my Y
 3. **Execution**
 
    ```bash
+   cd ..
    java code.Lancement
    ````
+
+#### 🐳 Option 2: Using Docker
+1. **Clone the repository**
+   
+   ```bash
+   git clone https://github.com/Fab16BSB/SOM_JAVA.git
+   cd SOM_JAVA
+   ```
+
+2. **Build the Docker image**
+
+   ```bash
+   docker build -t som_java .
+   ```
+
+3. **Run the Docker container**
+   
+   ```bash
+   docker run --rm -it som_java
+    ```
+
 ---
 
 ### 📈 Results
@@ -112,4 +137,5 @@ If you don't have Java installed, you can follow the instructions in one of my Y
 
 ### 🙌 Acknowledgements
 I would like to thank my instructor for offering me this project and for his valuable advice.
+
 
