@@ -2,6 +2,7 @@
 ![University: Paris 8](https://img.shields.io/badge/University-Paris%208-red)
 ![machine: learning](https://img.shields.io/badge/machine-learning-blue)
 ![java: 17](https://img.shields.io/badge/java-17-brightgreen)
+![Docker Ready](https://img.shields.io/badge/Docker-Ready-blue?logo=docker)
 ![Contributors](https://img.shields.io/badge/contributor-1-orange)
 ![Stars](https://img.shields.io/github/stars/Fab16BSB/SOM_JAVA?color=orange)
 ![Fork](https://img.shields.io/github/forks/Fab16BSB/SOM_JAVA?color=orange)
@@ -137,4 +138,5 @@ Puedes compilar y ejecutar el proyecto **localmente** o usando **Docker**.
 
 ### 🙌 Agradecimientos
 Quiero agradecer a mi profesor por ofrecerme este proyecto y por sus valiosos consejos.
+
 
